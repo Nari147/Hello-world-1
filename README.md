@@ -1,2 +1,3 @@
-# devpro
-My devops project
+# maven-project
+
+Simple Maven Project
